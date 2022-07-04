@@ -1,0 +1,10 @@
+{
+    "leetcode.defaultLanguage": "java",
+    "leetcode.workspaceFolder": "D:/Code/Striver SDE Sheet",
+    "leetcode.filePath": {
+        "default": {
+            "folder": "",
+            "filename": "${id}.${kebab-case-name}.${ext}"
+        }
+    }
+}
